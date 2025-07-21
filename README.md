@@ -94,7 +94,8 @@ I'm a full-stack developer who loves building modern digital solutions. Whether 
 
 ![Arsema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsema16&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsema16&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=arsema16&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=arsema16&theme=tokyonight&hide_border=true
+)
 
 </div>
 
